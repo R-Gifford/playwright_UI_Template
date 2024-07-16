@@ -1,6 +1,7 @@
 //This is the template .env and .env.local need to follow.
-TEST_USER = ""
-SECRET_PASSWORD = ""
+TEST_USERNAME = ""
+TEST_PASSWORD = ""
 BASE_URL="https://conserviceportaldev.azureedge.net/welcome"
 AUTH_URL="https://dev-login.ac1.conservice.com/auth/realms/stratus/protocol/openid-connect/token"
+CLIENT_ID=""
 TOKEN=""
